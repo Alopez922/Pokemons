@@ -1,0 +1,40 @@
+.detail-card {
+    /* https://static.videezy.com/system/resources/thumbnails/000/048/749/original/1056836_Heaven-light-background_HD_BG.jpg */
+    /* https://www.gratistodo.com/wp-content/uploads/2017/02/degradados-wallpapers-1.jpg  este es uno de los que mas gusta*/ 
+    /* https://st2.depositphotos.com/21546710/45848/v/600/depositphotos_458480686-stock-video-realistic-white-light-beam-on.jpg */
+    /* https://us.123rf.com/450wm/shacil/shacil1703/shacil170300024/73347441-foco-de-luz-blanco-plantilla-para-efectos-de-luz-aislado-sobre-fondo-negro-ilustraci%C3%B3n-vectorial.jpg */
+    background-image: url("https://www.gratistodo.com/wp-content/uploads/2017/02/degradados-wallpapers-1.jpg");
+    background-size: 100% 100%;
+    backdrop-filter: blur(6px);
+    width: 400px;
+    overflow: hidden;
+    transition: 0.3s;
+    animation: ease-in-out;
+    box-shadow: 0px 0px 10px 0px rgb(42, 80, 3);
+    margin-left: 40%;
+    margin-top: 5ex;
+    margin-right: 50%;
+    margin-bottom: 10%;
+    border-radius: 20px;
+}
+
+.image-container{
+    overflow: hidden;
+    height: 50px;
+    border: 50px solid rgb(0, 0, 0);
+
+    
+}
+
+.titulo{
+    color: black;
+}
+
+.detail-container{
+    
+   
+    padding-top: 2.8%;
+    padding-bottom: 1.8%;
+    background: url("https://www.xtrafondos.com/wallpapers/pokemon-unite-8254.jpg");
+    background-size: 100% 100%;
+}
